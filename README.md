@@ -12,6 +12,12 @@ Used Language: Python
 
 Obtained Stars: 2 ⭐⭐
 
+### --- Day 3: Mull It Over ---
+
+Used Language: Ruby
+
+Obtained Stars: 2 ⭐⭐
+
 FAQ:
 
 1. Why did you choose a different language for each day?
