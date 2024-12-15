@@ -18,6 +18,14 @@ Used Language: Ruby
 
 Obtained Stars: 2 ⭐⭐
 
+### --- Day 4: Ceres Search ---
+
+Used Language: Scala
+
+Attempted, But Gave Up: Erlang
+
+Obtained Stars: 2 ⭐⭐
+
 FAQ:
 
 1. Why did you choose a different language for each day?
